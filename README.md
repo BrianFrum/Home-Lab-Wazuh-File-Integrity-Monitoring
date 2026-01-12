@@ -1,1 +1,1 @@
-# Home-Lab-SIEM-Wazuh
+# Home-Lab-Wazuh-File-Integrity-Monitoring
